@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/drevo/static/css/main.72f41d41.css",
-    "main.js": "/drevo/static/js/main.5b3bf468.js",
+    "main.css": "/drevo/static/css/main.97d5b308.css",
+    "main.js": "/drevo/static/js/main.3720ea81.js",
     "static/media/Tanja.png": "/drevo/static/media/Tanja.ad23417434f5e01a7236.png",
     "static/media/Еремей_Филипп.png": "/drevo/static/media/Еремей_Филипп.c5386bb31262cbed6451.png",
     "static/media/ХолмооровПФ.png": "/drevo/static/media/ХолмооровПФ.411a9f165bb646311765.png",
     "static/media/ХолмогоровыИф.png": "/drevo/static/media/ХолмогоровыИф.f014ab01297918d809d7.png",
     "static/media/Оконешниковы 1926г.png": "/drevo/static/media/Оконешниковы 1926г.a49657968ca0107984b4.png",
     "static/media/Мария Семеновна Маркова суруга.png": "/drevo/static/media/Мария Семеновна Маркова суруга.94f844d6685c8f0544fb.png",
+    "static/media/перепись27.png": "/drevo/static/media/перепись27.bc6c8dc8a6182ccc8326.png",
     "static/media/InPavlovich.png": "/drevo/static/media/InPavlovich.7b12bd64671430c2d8ac.png",
     "static/media/Оконешниковы.png": "/drevo/static/media/Оконешниковы.f36808c8001b553543ac.png",
     "static/media/перепись 1920.png": "/drevo/static/media/перепись 1920.199240448f5c954858c2.png",
@@ -31,9 +32,9 @@
     "static/media/Anactasia_Timof_Munhalova.png": "/drevo/static/media/Anactasia_Timof_Munhalova.721694867bfe7c3e70c9.png",
     "static/media/Michail.jpg": "/drevo/static/media/Michail.8c708161bce67fb684a9.jpg",
     "static/media/T_C_Markov.png": "/drevo/static/media/T_C_Markov.d89a31e8aebdc93eb531.png",
+    "static/media/Am.png": "/drevo/static/media/Am.8cc266f472f0e9dba27c.png",
     "static/media/E_A_Markov.png": "/drevo/static/media/E_A_Markov.4ba13961a8676f4b799f.png",
     "static/media/Elizaveta.png": "/drevo/static/media/Elizaveta.c887431457f342a768aa.png",
-    "static/media/Am.png": "/drevo/static/media/Am.11af35ecfc121da61677.png",
     "static/media/ЕгорНиколаевич.png": "/drevo/static/media/ЕгорНиколаевич.6eac6f9a338e3dd1c637.png",
     "static/media/ФС_Марков.png": "/drevo/static/media/ФС_Марков.edfedea689d7f15ab0b1.png",
     "static/media/4.png": "/drevo/static/media/4.3cca7b4edb7cdc3c2630.png",
@@ -51,11 +52,11 @@
     "static/media/2.png": "/drevo/static/media/2.0ee560987ecac7536db7.png",
     "static/media/Tat_Af.png": "/drevo/static/media/Tat_Af.e151195c974e16e5fc56.png",
     "index.html": "/drevo/index.html",
-    "main.72f41d41.css.map": "/drevo/static/css/main.72f41d41.css.map",
-    "main.5b3bf468.js.map": "/drevo/static/js/main.5b3bf468.js.map"
+    "main.97d5b308.css.map": "/drevo/static/css/main.97d5b308.css.map",
+    "main.3720ea81.js.map": "/drevo/static/js/main.3720ea81.js.map"
   },
   "entrypoints": [
-    "static/css/main.72f41d41.css",
-    "static/js/main.5b3bf468.js"
+    "static/css/main.97d5b308.css",
+    "static/js/main.3720ea81.js"
   ]
 }
