@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/drevo/static/css/main.97d5b308.css",
-    "main.js": "/drevo/static/js/main.3720ea81.js",
+    "main.css": "/drevo/static/css/main.4e4eb247.css",
+    "main.js": "/drevo/static/js/main.34894126.js",
     "static/media/Tanja.png": "/drevo/static/media/Tanja.ad23417434f5e01a7236.png",
     "static/media/Еремей_Филипп.png": "/drevo/static/media/Еремей_Филипп.c5386bb31262cbed6451.png",
     "static/media/ХолмооровПФ.png": "/drevo/static/media/ХолмооровПФ.411a9f165bb646311765.png",
@@ -52,11 +52,11 @@
     "static/media/2.png": "/drevo/static/media/2.0ee560987ecac7536db7.png",
     "static/media/Tat_Af.png": "/drevo/static/media/Tat_Af.e151195c974e16e5fc56.png",
     "index.html": "/drevo/index.html",
-    "main.97d5b308.css.map": "/drevo/static/css/main.97d5b308.css.map",
-    "main.3720ea81.js.map": "/drevo/static/js/main.3720ea81.js.map"
+    "main.4e4eb247.css.map": "/drevo/static/css/main.4e4eb247.css.map",
+    "main.34894126.js.map": "/drevo/static/js/main.34894126.js.map"
   },
   "entrypoints": [
-    "static/css/main.97d5b308.css",
-    "static/js/main.3720ea81.js"
+    "static/css/main.4e4eb247.css",
+    "static/js/main.34894126.js"
   ]
 }
